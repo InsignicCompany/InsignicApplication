@@ -1,1 +1,1 @@
-Repository ofthe InsignicApplication.
+Repository of the InsignicApplication.
